@@ -2,7 +2,7 @@ import java.util.Comparator;
 
 class Main {
   public static void main(String[] args) {
-    GenericArrayList<Student> list = new GenericArrayList<Student>();
+    MyArrayList<Student> list = new MyArrayList<Student>();
 
     Student s1 = new Student();
     s1.id = 1;
